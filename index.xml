@@ -6,8 +6,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Brihi Joshi</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CoReRank: Ranking to Detect Users Involved in Blackmarket-based Collusive Retweeting Activities</title>
+      <link>https://brihijoshi.github.io/publication/wsdm-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://brihijoshi.github.io/publication/wsdm-2019/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+ --&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Page</title>
@@ -26,6 +37,28 @@
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services</title>
+      <link>https://brihijoshi.github.io/publication/asonam-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://brihijoshi.github.io/publication/asonam-2018/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generating Clues for Gender based Occupation De-biasing in Text</title>
+      <link>https://brihijoshi.github.io/publication/arxiv-ibm-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://brihijoshi.github.io/publication/arxiv-ibm-2018/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+ --&gt;
 </description>
     </item>
     
@@ -451,26 +484,6 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://brihijoshi.github.io/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://brihijoshi.github.io/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://brihijoshi.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0530</pubDate>
-      
-      <guid>https://brihijoshi.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
