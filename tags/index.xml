@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Brihi Joshi</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://brihijoshi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://brihijoshi.github.io/tags/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://brihijoshi.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>https://brihijoshi.github.io/tags/cv/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://brihijoshi.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://brihijoshi.github.io/tags/ml/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://brihijoshi.github.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://brihijoshi.github.io/tags/nlp/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://brihijoshi.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fraud Detection</title>
@@ -40,20 +76,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://brihijoshi.github.io/tags/deep-learning/</link>
+      <title>blahblah</title>
+      <link>https://brihijoshi.github.io/tags/blahblah/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://brihijoshi.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://brihijoshi.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://brihijoshi.github.io/tags/demo/</guid>
+      <guid>https://brihijoshi.github.io/tags/blahblah/</guid>
       <description></description>
     </item>
     
