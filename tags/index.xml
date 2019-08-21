@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Brihi Joshi</title>
+    <title>Brihi Joshi</title>
     <link>https://brihijoshi.github.io/tags/</link>
-    <description>Recent content in Tags on Brihi Joshi</description>
+    <description>Recent content on Brihi Joshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Brihi Joshi</copyright>
@@ -13,18 +13,16 @@
     
     
     <item>
-      <title></title>
-      <link>https://brihijoshi.github.io/tags/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      <title>img2LaTeX</title>
+      <link>https://brihijoshi.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://brihijoshi.github.io/tags/</guid>
-      <description></description>
+      <guid>https://brihijoshi.github.io/project/internal-project/</guid>
+      <description>An end-to-end model for converting handwritten mathematical expressions to compilable LaTeX code</description>
     </item>
     
-    <item>
-      <title>cv</title>
-      <link>https://brihijoshi.github.io/tags/cv/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+  </channel>
+</rss>
       
       <guid>https://brihijoshi.github.io/tags/cv/</guid>
       <description></description>
