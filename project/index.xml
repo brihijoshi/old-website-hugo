@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Brihi Joshi</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://brihijoshi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Img2LaTeX</title>
       <link>https://brihijoshi.github.io/project/img2latex/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/project/img2latex/</guid>
       <description>An end-to-end model for converting handwritten mathematical expressions to compilable LaTeX code.</description>
@@ -24,19 +24,10 @@
     <item>
       <title>Task-specific ontology modelling</title>
       <link>https://brihijoshi.github.io/project/airbnb-chat/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/project/airbnb-chat/</guid>
       <description>A flask chatbot developed from a curated ontology of the Airbnb dataset for easier search and of requested listings.</description>
-    </item>
-    
-    <item>
-      <title>img2LaTeX</title>
-      <link>https://brihijoshi.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://brihijoshi.github.io/project/internal-project/</guid>
-      <description>An end-to-end model for converting handwritten mathematical expressions to compilable LaTeX code</description>
     </item>
     
   </channel>

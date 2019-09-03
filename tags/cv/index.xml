@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Brihi Joshi</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://brihijoshi.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Img2LaTeX</title>
       <link>https://brihijoshi.github.io/project/img2latex/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/project/img2latex/</guid>
       <description>An end-to-end model for converting handwritten mathematical expressions to compilable LaTeX code.</description>

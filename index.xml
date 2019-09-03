@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Brihi Joshi</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Img2LaTeX</title>
       <link>https://brihijoshi.github.io/project/img2latex/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/project/img2latex/</guid>
       <description></description>
@@ -21,7 +21,7 @@
     <item>
       <title>Task-specific ontology modelling</title>
       <link>https://brihijoshi.github.io/project/airbnb-chat/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/project/airbnb-chat/</guid>
       <description></description>
@@ -30,7 +30,7 @@
     <item>
       <title>CoReRank: Ranking to Detect Users Involved in Blackmarket-based Collusive Retweeting Activities</title>
       <link>https://brihijoshi.github.io/publication/wsdm-2019/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://brihijoshi.github.io/publication/wsdm-2019/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
@@ -41,7 +41,7 @@
     <item>
       <title>Example Page</title>
       <link>https://brihijoshi.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/tutorial/example/</guid>
       <description>
@@ -61,7 +61,7 @@
     <item>
       <title>Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services</title>
       <link>https://brihijoshi.github.io/publication/asonam-2018/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/publication/asonam-2018/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
@@ -72,7 +72,7 @@
     <item>
       <title>Generating Clues for Gender based Occupation De-biasing in Text</title>
       <link>https://brihijoshi.github.io/publication/arxiv-ibm-2018/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/publication/arxiv-ibm-2018/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
@@ -83,7 +83,7 @@
     <item>
       <title>Example Talk</title>
       <link>https://brihijoshi.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://brihijoshi.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -107,19 +107,9 @@ Click on the **Slides** button above to view the built-in slides feature.
     </item>
     
     <item>
-      <title>img2LaTeX</title>
-      <link>https://brihijoshi.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://brihijoshi.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;img2LaTeX is an end-to-end model for converting handwritten mathematical expressions into compilable LaTeX code. The project included&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://brihijoshi.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/post/getting-started/</guid>
       <description>
