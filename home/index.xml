@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>https://brihijoshi.github.io/home/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://brihijoshi.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://brihijoshi.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,7 +30,16 @@
     </item>
     
     <item>
-      <title>Experience</title>
+      <title>Blog</title>
+      <link>https://brihijoshi.github.io/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brihijoshi.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Experience</title>
       <link>https://brihijoshi.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

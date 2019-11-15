@@ -13,12 +13,30 @@
     
     
     <item>
+      <title>ILIAD Tools</title>
+      <link>https://brihijoshi.github.io/project/iliadtools/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://brihijoshi.github.io/project/iliadtools/</guid>
+      <description>A toolkit for controlling sound parameters in real-time using&amp;hellip;images!</description>
+    </item>
+    
+    <item>
       <title>Img2LaTeX</title>
       <link>https://brihijoshi.github.io/project/img2latex/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
       
       <guid>https://brihijoshi.github.io/project/img2latex/</guid>
       <description>An end-to-end model for converting handwritten mathematical expressions to compilable LaTeX code.</description>
+    </item>
+    
+    <item>
+      <title>swaad</title>
+      <link>https://brihijoshi.github.io/project/swaad/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://brihijoshi.github.io/project/swaad/</guid>
+      <description>An AI based effort to reduce food wastage from households by incorporating the leftovers into delicious recipes!</description>
     </item>
     
   </channel>
